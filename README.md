@@ -7,7 +7,7 @@
 - MENDOZA MENDOZA AIR IVALDO
 - SOLIZ  QUIROGA MIRTHA CAROLINA
 - VALDIVIESO
-- RODRIGO
+- VEIZAGA GUZMAN RODRIGO RONAL
 
 ## INTRODUCCION
 "Trigame es una aplicación desarrollada en Python que ofrece una experiencia de entretenimiento con tres juegos interactivos y educativos: 'Adivina', 'Ahorcado' y 'Trivia'. Cada juego desafía al usuario de manera única, poniendo a prueba su agudeza mental, conocimiento y capacidad para resolver acertijos de forma divertida y amena."
